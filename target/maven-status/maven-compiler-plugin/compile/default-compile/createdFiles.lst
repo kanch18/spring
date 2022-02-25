@@ -1,0 +1,6 @@
+com\springboot\dbauthentication\RestController.class
+com\springboot\dbauthentication\User.class
+com\springboot\dbauthentication\SecurityConfiguration.class
+com\springboot\dbauthentication\UserRepository.class
+com\springboot\dbauthentication\UserDetailsService.class
+com\springboot\dbauthentication\DbauthenticationApplication.class
